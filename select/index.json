@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "恋色",
+  "base_artist": "大間々昂",
+  "createdAt": "2025-12-08T13:51:51.264481Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋色",
+      "artist": "もさを。",
+      "has_synced": true,
+      "path": "select/01_恋色_もさを。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋色 - Koiiro",
+      "artist": "Mosawo",
+      "has_synced": true,
+      "path": "select/02_恋色_-_Koiiro_Mosawo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋色 / もさを。【Music Video】",
+      "artist": "もさを。",
+      "has_synced": true,
+      "path": "select/03_恋色___もさを。【Music_Video】_もさを。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋色",
+      "artist": "もさを。",
+      "has_synced": true,
+      "path": "select/04_恋色_もさを。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋色 - Koiiro",
+      "artist": "Mosawo",
+      "has_synced": true,
+      "path": "select/05_恋色_-_Koiiro_Mosawo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "恋色♡思考回路",
+      "artist": "Luce Twinkle Wink☆",
+      "has_synced": true,
+      "path": "select/06_恋色♡思考回路_Luce_Twinkle_Wink☆.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "恋色",
+      "artist": "Mosawo",
+      "has_synced": true,
+      "path": "select/07_恋色_Mosawo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "恋色 - Koiiro",
+      "artist": "Mosawo",
+      "has_synced": true,
+      "path": "select/08_恋色_-_Koiiro_Mosawo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "恋色",
+      "artist": "もさを。",
+      "has_synced": true,
+      "path": "select/09_恋色_もさを。.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "恋色 - Koiiro",
+      "artist": "Mosawo",
+      "has_synced": true,
+      "path": "select/10_恋色_-_Koiiro_Mosawo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "恋色 (Paused)",
+      "artist": "もさを。",
+      "has_synced": true,
+      "path": "select/11_恋色_(Paused)_もさを。.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "恋色 - Shade of love",
+      "artist": "Takashi Ohmama",
+      "has_synced": true,
+      "path": "select/12_恋色_-_Shade_of_love_Takashi_Ohmama.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "恋色\u001f「www.jpopsingles.eu」",
+      "artist": "もさを。",
+      "has_synced": true,
+      "path": "select/13_恋色_「www.jpopsingles.eu」_もさを。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋色",
+      "artist": "大間々昂",
+      "has_synced": false,
+      "path": "select/pl_01_恋色_大間々昂.txt"
+    }
+  ]
+}
